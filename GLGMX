@@ -395,10 +395,6 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/181322
 http://odenfull.co:2086/Arismau/db4C47br9Fda/181323
 #EXTINF:-1 tvg-id="" tvg-name="DEP: BARCA TV" tvg-logo="" group-title="DEPORTES SD/HD",DEP: BARCA TV
 http://odenfull.co:2086/Arismau/db4C47br9Fda/203310
-#EXTINF:-1 tvg-id="" tvg-name="Coco (2017)" tvg-logo="http://odenfull.co:2086/images/a541b8e0d2c8ba2ca59bfbed6ade663c.jpg" group-title="P-INFANTILES",Coco (2017)
-http://odenfull.co:2086/movie/Arismau/db4C47br9Fda/188004.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Danna Paola - Samsung Mexico" tvg-logo="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANMm5e.img?h=1431&w=799&m=6&q=60&o=f&l=f&x=588&y=297" group-title="P -LIVE STREAMING 2021",Danna Paola - Samsung Mexico
-http://odenfull.co:2086/movie/Arismau/db4C47br9Fda/207787.mkv
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS + (OPC 6)" tvg-logo="http://odenfull.co:2086/images/0b08bd98d279b88859b628cd8c061ae0.png" group-title="WIN SPORTS + (PACK)",WIN SPORTS + (OPC 6)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/208577
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS 3" tvg-logo="http://odenfull.co:2086/images/0b08bd98d279b88859b628cd8c061ae0.png" group-title="WIN SPORTS + (PACK)",WIN SPORTS 3
@@ -511,8 +507,6 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/31653
 http://odenfull.co:2086/Arismau/db4C47br9Fda/31657
 #EXTINF:-1 tvg-id="" tvg-name="LAT HD:  UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/NFPjNdW/ACT.png" group-title="CINE PREMIUM ",LAT HD:  UNIVERSAL REALITY
 http://odenfull.co:2086/Arismau/db4C47br9Fda/186020
-#EXTINF:-1 tvg-id="" tvg-name="PR: WAPA" tvg-logo="" group-title="PUERTORICO",PR: WAPA
-http://odenfull.co:2086/Arismau/db4C47br9Fda/210995
 #EXTINF:-1 tvg-id="" tvg-name="EWTN España" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200" group-title="VARIOS 1",EWTN España
 http://odenfull.co:2086/Arismau/db4C47br9Fda/211184
 #EXTINF:-1 tvg-id="" tvg-name="EWTN España EN" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200" group-title="VARIOS 1",EWTN España EN
@@ -897,22 +891,8 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/211753
 http://odenfull.co:2086/Arismau/db4C47br9Fda/211754
 #EXTINF:-1 tvg-id="" tvg-name="Prueba 1" tvg-logo="" group-title="VARIOS 1",Prueba 1
 http://odenfull.co:2086/Arismau/db4C47br9Fda/211778
-#EXTINF:-1 tvg-id="" tvg-name="FUTV SD" tvg-logo="" group-title="COSTA RICA",FUTV SD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/211780
-#EXTINF:-1 tvg-id="" tvg-name="FUTV HD" tvg-logo="" group-title="COSTA RICA",FUTV HD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/211781
-#EXTINF:-1 tvg-id="" tvg-name="USA: ABC ATLANTA" tvg-logo="" group-title="USA",USA: ABC ATLANTA
-http://odenfull.co:2086/Arismau/db4C47br9Fda/211940
-#EXTINF:-1 tvg-id="" tvg-name="USA: NBC ATLANTA" tvg-logo="" group-title="USA",USA: NBC ATLANTA
-http://odenfull.co:2086/Arismau/db4C47br9Fda/211941
-#EXTINF:-1 tvg-id="" tvg-name="USA: FOX 5 ATLANTA" tvg-logo="" group-title="USA",USA: FOX 5 ATLANTA
-http://odenfull.co:2086/Arismau/db4C47br9Fda/211942
-#EXTINF:-1 tvg-id="K05FWD3.us" tvg-name="USA: CBS ATLANTA" tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/9/96/CBS_Television_Network_1951.jpg/revision/latest?cb=20181231094638" group-title="USA",USA: CBS ATLANTA
-http://odenfull.co:2086/Arismau/db4C47br9Fda/211943
 #EXTINF:-1 tvg-id="" tvg-name="UFC EVENT 2" tvg-logo="" group-title="UFC-WWE-BOX",UFC EVENT 2
 http://odenfull.co:2086/Arismau/db4C47br9Fda/212092
-#EXTINF:-1 tvg-id="" tvg-name="ECU: ECOTEL" tvg-logo="" group-title="ECUADOR",ECU: ECOTEL
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212118
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR TOROS" tvg-logo="https://th.bing.com/th/id/R.a0dfd96d401317536f66994cfbd94205?rik=A%2freZinIDDCH8g&pid=ImgRaw&r=0" group-title="DEPORTES SD/HD",MOVISTAR TOROS
 http://odenfull.co:2086/Arismau/db4C47br9Fda/209534
 #EXTINF:-1 tvg-id="" tvg-name="PREM HD: TBS" tvg-logo="" group-title="CINE PREMIUM ",PREM HD: TBS
@@ -1703,12 +1683,6 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/214640
 http://odenfull.co:2086/Arismau/db4C47br9Fda/214652
 #EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="" group-title="USA",NBC UNIVERSO
 http://odenfull.co:2086/Arismau/db4C47br9Fda/214691
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 45" tvg-logo="" group-title="NICARAGUA",CANAL 45
-http://odenfull.co:2086/Arismau/db4C47br9Fda/214692
-#EXTINF:-1 tvg-id="" tvg-name="NIC: VOZ TV" tvg-logo="" group-title="NICARAGUA",NIC: VOZ TV
-http://odenfull.co:2086/Arismau/db4C47br9Fda/214693
-#EXTINF:-1 tvg-id="" tvg-name="PR: MEGA TV" tvg-logo="" group-title="PUERTORICO",PR: MEGA TV
-http://odenfull.co:2086/Arismau/db4C47br9Fda/214699
 #EXTINF:-1 tvg-id="" tvg-name="STARZ HD" tvg-logo="http://odenfull.co:2086/images/c7aa6b3e0c977ea63e18c712f710dfe4.png" group-title="CINE PREMIUM ",STARZ HD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/214702
 #EXTINF:-1 tvg-id="" tvg-name="Starz Encore Western" tvg-logo="http://odenfull.co:2086/images/c7aa6b3e0c977ea63e18c712f710dfe4.png" group-title="CINE PREMIUM ",Starz Encore Western
@@ -1873,22 +1847,6 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/219568
 http://odenfull.co:2086/Arismau/db4C47br9Fda/219569
 #EXTINF:-1 tvg-id="" tvg-name="UNIMAS FHD" tvg-logo="https://th.bing.com/th/id/OIP.jR0wW1_fRxBbt029Zv1kkQHaH5?w=176&h=187&c=7&r=0&o=5&pid=1.7" group-title="TELEMUNDO/UNIVISION",UNIMAS FHD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/219570
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON TEM 1-5" tvg-logo="https://www.clipartkey.com/mpngs/m/152-1526970_imgenes-de-los-simpsons-png.png" group-title="CANALES 24/7",LOS SIMPSON TEM 1-5
-http://odenfull.co:2086/Arismau/db4C47br9Fda/221211
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON TEM 12-17" tvg-logo="https://www.clipartkey.com/mpngs/m/152-1526970_imgenes-de-los-simpsons-png.png" group-title="CANALES 24/7",LOS SIMPSON TEM 12-17
-http://odenfull.co:2086/Arismau/db4C47br9Fda/221212
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON TEM 18 -21" tvg-logo="https://www.clipartkey.com/mpngs/m/152-1526970_imgenes-de-los-simpsons-png.png" group-title="CANALES 24/7",LOS SIMPSON TEM 18 -21
-http://odenfull.co:2086/Arismau/db4C47br9Fda/221213
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON  TEM 22-26" tvg-logo="https://www.clipartkey.com/mpngs/m/152-1526970_imgenes-de-los-simpsons-png.png" group-title="CANALES 24/7",LOS SIMPSON  TEM 22-26
-http://odenfull.co:2086/Arismau/db4C47br9Fda/221214
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON TEM 27-30" tvg-logo="https://www.clipartkey.com/mpngs/m/152-1526970_imgenes-de-los-simpsons-png.png" group-title="CANALES 24/7",LOS SIMPSON TEM 27-30
-http://odenfull.co:2086/Arismau/db4C47br9Fda/221215
-#EXTINF:-1 tvg-id="" tvg-name="TELESOL HD" tvg-logo="https://th.bing.com/th/id/R.371c244130beedf5b02fd7131ad4c0c8?rik=Ubx%2bl%2feHmkvsEA&riu=http%3a%2f%2ftvabierta.weebly.com%2fuploads%2f5%2f1%2f3%2f4%2f51344345%2ftelesol.png&ehk=8dniebWnl8jexe2lfzBcEOedykeMs1FmucAY%2f4POIh0%3d&risl=&pid=ImgRaw&r=0" group-title="VENEZUELA",TELESOL HD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/221418
-#EXTINF:-1 tvg-id="" tvg-name="TRV HD" tvg-logo="https://th.bing.com/th/id/OIP.1PMnxNdhLA_GwSdXjUbcDwAAAA?w=272&h=104&c=7&r=0&o=5&pid=1.7" group-title="VENEZUELA",TRV HD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/221419
-#EXTINF:-1 tvg-id="" tvg-name="TVS MARACAY HD" tvg-logo="https://th.bing.com/th/id/OIP.EeuUa4qZcd-LAlc_my_7hgHaF7?w=190&h=180&c=7&r=0&o=5&pid=1.7" group-title="VENEZUELA",TVS MARACAY HD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/221420
 #EXTINF:-1 tvg-id="" tvg-name="UNIMAS HD" tvg-logo="https://th.bing.com/th/id/OIP.jR0wW1_fRxBbt029Zv1kkQHaH5?w=176&h=187&c=7&r=0&o=5&pid=1.7" group-title="TELEMUNDO/UNIVISION",UNIMAS HD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/221428
 #EXTINF:-1 tvg-id="" tvg-name="UNIMAS LOS ANGELES" tvg-logo="https://th.bing.com/th/id/OIP.jR0wW1_fRxBbt029Zv1kkQHaH5?w=176&h=187&c=7&r=0&o=5&pid=1.7" group-title="TELEMUNDO/UNIVISION",UNIMAS LOS ANGELES
