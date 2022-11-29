@@ -137,9 +137,9 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/135281
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135282
 #EXTINF:-1 tvg-id="Canal Fox Sports Premium (Argentina)" tvg-name="DEP HD: ESPN PREMIUM" tvg-logo="https://i.ibb.co/GTZLPKQ/foxsport.png" group-title="DEPORTES MX",DEP HD: ESPN PREMIUM
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135283
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: TNT SPORTS" tvg-logo="https://i.ibb.co/W5Fgd9L/tnt2.png" group-title="DEPORTES SD/HD",DEP SD: TNT SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: TNT SPORTS" tvg-logo="https://i.ibb.co/W5Fgd9L/tnt2.png" group-title="DEPORTES MX",DEP SD: TNT SPORTS
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135284
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: TNT SPORTS" tvg-logo="https://i.ibb.co/W5Fgd9L/tnt2.png" group-title="DEPORTES SD/HD",DEP HD: TNT SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: TNT SPORTS" tvg-logo="https://i.ibb.co/W5Fgd9L/tnt2.png" group-title="DEPORTES MX",DEP HD: TNT SPORTS
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135285
 #EXTINF:-1 tvg-id="" tvg-name="DEP SD: DIRECTV SPORTS 1 (COL)" tvg-logo="http://odenfull.co:2086/images/14d7edbe633da1db533aad1a39cc7500.png" group-title="DEPORTES MX",DEP SD: DIRECTV SPORTS 1 (COL)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135311
@@ -237,9 +237,9 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/208583
 http://odenfull.co:2086/Arismau/db4C47br9Fda/208585
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS + (OPC 8)" tvg-logo="http://odenfull.co:2086/images/0b08bd98d279b88859b628cd8c061ae0.png" group-title="WIN SPORTS + (PACK)",WIN SPORTS + (OPC 8)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/208586
-#EXTINF:-1 tvg-id="" tvg-name="DEP: TYC SPORTS" tvg-logo="http://moontools.me:8080/intercambio2/XzWCqH3m36/19568" group-title="DEPORTES SD/HD",DEP: TYC SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="DEP: TYC SPORTS" tvg-logo="http://moontools.me:8080/intercambio2/XzWCqH3m36/19568" group-title="DEPORTES MX",DEP: TYC SPORTS
 http://odenfull.co:2086/Arismau/db4C47br9Fda/210634
-#EXTINF:-1 tvg-id="" tvg-name="DEP: TYC SPORTS INTERNACIONAL" tvg-logo="http://odenfull.co:2086/images/0b480bf12da2d0a2d991df073994174a.jpg" group-title="DEPORTES SD/HD",DEP: TYC SPORTS INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="DEP: TYC SPORTS INTERNACIONAL" tvg-logo="http://odenfull.co:2086/images/0b480bf12da2d0a2d991df073994174a.jpg" group-title="DEPORTES MX",DEP: TYC SPORTS INTERNACIONAL
 http://odenfull.co:2086/Arismau/db4C47br9Fda/210635
 #EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E" tvg-logo="http://odenfull.co:2086/images/cae225005c906bd2add646a81468a376.png" group-title="CANALES LATINOS PARA 5 MEGAS",A&E
 http://odenfull.co:2086/Arismau/db4C47br9Fda/31563
@@ -371,7 +371,7 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/223519
 http://odenfull.co:2086/Arismau/db4C47br9Fda/224355
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN EXTRA
 http://odenfull.co:2086/Arismau/db4C47br9Fda/207566
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA MX" tvg-logo="http://odenfull.co:2086/images/c14540a56929e7c765a2ec5a4ff86d81.png" group-title="EDEPORTES MX",ESPN EXTRA MX
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA MX" tvg-logo="http://odenfull.co:2086/images/c14540a56929e7c765a2ec5a4ff86d81.png" group-title="DEPORTES MX",ESPN EXTRA MX
 http://odenfull.co:2086/Arismau/db4C47br9Fda/210440
 #EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="http://odenfull.co:2086/images/6512bd43d9caa6e02c990b0a82652dca.png" group-title="DEPORTES MX",TUDN USA
 http://odenfull.co:2086/Arismau/db4C47br9Fda/210627
@@ -402,6 +402,3 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/209786
 http://odenfull.co:2086/Arismau/db4C47br9Fda/209787
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS MX HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN PLUS MX HD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/212054
-
-
-
