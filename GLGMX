@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: HBO" tvg-logo="https://i.ibb.co/B25hbwt/HBO.png" group-title="CINE PREMIUM ",PREM SD: HBO
-http://odenfull.co:2086/Arismau/db4C47br9Fda/108658
 #EXTINF:-1 tvg-id="HBO (HBO SD)" tvg-name="PREM HD: HBO" tvg-logo="https://i.ibb.co/B25hbwt/HBO.png" group-title="CINE PREMIUM ",PREM HD: HBO
 http://odenfull.co:2086/Arismau/db4C47br9Fda/108659
 #EXTINF:-1 tvg-id="HBO PLUS(HBO Plus SD)" tvg-name="PREM SD: HBO PLUS" tvg-logo="http://odenfull.co:2086/images/45ac78bf3d4882ac520f4e7fb08d55c5.png" group-title="CINE PREMIUM ",PREM SD: HBO PLUS
 http://odenfull.co:2086/Arismau/db4C47br9Fda/108661
-#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO EAST" tvg-logo="https://i.ibb.co/41VNtyB/EAST.png" group-title="CINE PREMIUM ",PREM HD: HBO EAST
-http://odenfull.co:2086/Arismau/db4C47br9Fda/108663
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: HBO WEST" tvg-logo="http://odenfull.co:2086/images/366056947b6852ad4b687d2f1b0cd6b1.png" group-title="CINE PREMIUM ",PREM SD: HBO WEST
-http://odenfull.co:2086/Arismau/db4C47br9Fda/108685
 #EXTINF:-1 tvg-id="HBO West HD" tvg-name="PREM HD: MOVIE FE" tvg-logo="https://i.ibb.co/gvKxBky/HBO-WEST.png" group-title="CINE PREMIUM ",PREM HD: MOVIE FE
 http://odenfull.co:2086/Arismau/db4C47br9Fda/108687
 #EXTINF:-1 tvg-id="HBO Family (HBO Family SD)" tvg-name="PREM :HBO FAMILY" tvg-logo="http://odenfull.co:2086/images/ce9c9407a4ad3824b84f05cd9898ff03.png" group-title="CINE PREMIUM ",PREM :HBO FAMILY
@@ -17,12 +11,6 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/108692
 http://odenfull.co:2086/Arismau/db4C47br9Fda/108696
 #EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO 2" tvg-logo="http://odenfull.co:2086/images/675664b597f318f30d66c8d8834ea421.png" group-title="CINE PREMIUM ",PREM HD: HBO 2
 http://odenfull.co:2086/Arismau/db4C47br9Fda/108697
-#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO 2 WEST" tvg-logo="https://i.ibb.co/wwyvj91/HBO2.png" group-title="CINE PREMIUM ",PREM HD: HBO 2 WEST
-http://odenfull.co:2086/Arismau/db4C47br9Fda/108700
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: HBO 2 EAST" tvg-logo="https://i.ibb.co/wwyvj91/HBO2.png" group-title="CINE PREMIUM ",PREM SD: HBO 2 EAST
-http://odenfull.co:2086/Arismau/db4C47br9Fda/108702
-#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO 2 EAST" tvg-logo="https://i.ibb.co/wwyvj91/HBO2.png" group-title="CINE PREMIUM ",PREM HD: HBO 2 EAST
-http://odenfull.co:2086/Arismau/db4C47br9Fda/108704
 #EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO +" tvg-logo="https://i.ibb.co/0MxJGYb/HBO.png" group-title="CINE PREMIUM ",PREM HD: HBO +
 http://odenfull.co:2086/Arismau/db4C47br9Fda/108707
 #EXTINF:-1 tvg-id="" tvg-name="PREM SD: HBO +" tvg-logo="https://i.ibb.co/0MxJGYb/HBO.png" group-title="CINE PREMIUM ",PREM SD: HBO +
@@ -75,20 +63,6 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/108759
 http://odenfull.co:2086/Arismau/db4C47br9Fda/108760
 #EXTINF:-1 tvg-id="" tvg-name="PREM HD: UNIVERSAL STUDIO" tvg-logo="https://i.ibb.co/QQmgN8s/STAR-SERIES.png" group-title="CINE PREMIUM ",PREM HD: UNIVERSAL STUDIO
 http://odenfull.co:2086/Arismau/db4C47br9Fda/108761
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: FX" tvg-logo="https://i.ibb.co/CHDQRj7/fx.png" group-title="CINE PREMIUM ",PREM SD: FX
-http://odenfull.co:2086/Arismau/db4C47br9Fda/108765
-#EXTINF:-1 tvg-id="" tvg-name="PREM HD : FX" tvg-logo="https://i.ibb.co/CHDQRj7/fx.png" group-title="CINE PREMIUM ",PREM HD : FX
-http://odenfull.co:2086/Arismau/db4C47br9Fda/108766
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: FXM " tvg-logo="https://i.ibb.co/tKrcxyZ/fxm.png" group-title="CINE PREMIUM ",PREM SD: FXM 
-http://odenfull.co:2086/Arismau/db4C47br9Fda/108767
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: CINECANAL EAST" tvg-logo="https://i.ibb.co/YWgXf4N/ccanal.png" group-title="CINE PREMIUM ",PREM SD: CINECANAL EAST
-http://odenfull.co:2086/Arismau/db4C47br9Fda/108772
-#EXTINF:-1 tvg-id="" tvg-name="PREM HD: CINECANAL EAST" tvg-logo="https://i.ibb.co/YWgXf4N/ccanal.png" group-title="CINE PREMIUM ",PREM HD: CINECANAL EAST
-http://odenfull.co:2086/Arismau/db4C47br9Fda/108775
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: CINECANAL WEST" tvg-logo="https://i.ibb.co/YWgXf4N/ccanal.png" group-title="CINE PREMIUM ",PREM SD: CINECANAL WEST
-http://odenfull.co:2086/Arismau/db4C47br9Fda/108776
-#EXTINF:-1 tvg-id="CINECANAL OESTE HD" tvg-name="PREM HD: CINECANAL WEST" tvg-logo="https://i.ibb.co/YWgXf4N/ccanal.png" group-title="CINE PREMIUM ",PREM HD: CINECANAL WEST
-http://odenfull.co:2086/Arismau/db4C47br9Fda/108777
 #EXTINF:-1 tvg-id="" tvg-name="PREM HD: CINE SONY" tvg-logo="https://i.ibb.co/9vdMVM4/cinemax.png" group-title="CINE PREMIUM ",PREM HD: CINE SONY
 http://odenfull.co:2086/Arismau/db4C47br9Fda/108779
 #EXTINF:-1 tvg-id="" tvg-name="PREM SD: CINEMAX WEST" tvg-logo="https://i.ibb.co/9vdMVM4/cinemax.png" group-title="CINE PREMIUM ",PREM SD: CINEMAX WEST
@@ -145,256 +119,108 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/109076
 http://odenfull.co:2086/Arismau/db4C47br9Fda/109078
 #EXTINF:-1 tvg-id="" tvg-name="PREM HD: SONY CHANNEL 2" tvg-logo="https://i.ibb.co/Jy04C4Q/sony.png" group-title="CINE PREMIUM ",PREM HD: SONY CHANNEL 2
 http://odenfull.co:2086/Arismau/db4C47br9Fda/109079
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: SYFY" tvg-logo="https://i.ibb.co/qMJF63Y/syfyy.png" group-title="CINE PREMIUM ",PREM SD: SYFY
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109208
-#EXTINF:-1 tvg-id="" tvg-name="PREM HD: SYFY" tvg-logo="https://i.ibb.co/qMJF63Y/syfyy.png" group-title="CINE PREMIUM ",PREM HD: SYFY
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109209
-#EXTINF:-1 tvg-id="AXN SD" tvg-name="PREM SD: AXN" tvg-logo="http://odenfull.co:2086/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="CINE PREMIUM ",PREM SD: AXN
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109212
-#EXTINF:-1 tvg-id="" tvg-name="PREM HD: AXN" tvg-logo="http://odenfull.co:2086/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="CINE PREMIUM ",PREM HD: AXN
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109213
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: AMC EAST" tvg-logo="https://i.ibb.co/wL6m1Nf/amc.png" group-title="CINE PREMIUM ",PREM SD: AMC EAST
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109218
-#EXTINF:-1 tvg-id="" tvg-name="PREM HD: AMC EAST" tvg-logo="https://i.ibb.co/wL6m1Nf/amc.png" group-title="CINE PREMIUM ",PREM HD: AMC EAST
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109219
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: AMC WEST" tvg-logo="https://i.ibb.co/wL6m1Nf/amc.png" group-title="CINE PREMIUM ",PREM SD: AMC WEST
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109220
-#EXTINF:-1 tvg-id="" tvg-name="PREM HD: AMC WEST" tvg-logo="https://i.ibb.co/wL6m1Nf/amc.png" group-title="CINE PREMIUM ",PREM HD: AMC WEST
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109221
-#EXTINF:-1 tvg-id="DHE SD" tvg-name="PREM SD: DHE" tvg-logo="https://i.ibb.co/JzzjgyQ/hde.png" group-title="CINE PREMIUM ",PREM SD: DHE
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109425
-#EXTINF:-1 tvg-id="" tvg-name="PREM HD: DHE" tvg-logo="https://i.ibb.co/JzzjgyQ/hde.png" group-title="CINE PREMIUM ",PREM HD: DHE
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109426
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: TCM" tvg-logo="https://i.ibb.co/7GY4569/tcm.png" group-title="CINE PREMIUM ",PREM SD: TCM
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109427
-#EXTINF:-1 tvg-id="" tvg-name="PREM HD: TCM" tvg-logo="https://i.ibb.co/7GY4569/tcm.png" group-title="CINE PREMIUM ",PREM HD: TCM
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109428
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: ISAT" tvg-logo="https://i.ibb.co/Qr1Ffh6/isat.png" group-title="CINE PREMIUM ",PREM SD: ISAT
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109429
-#EXTINF:-1 tvg-id="" tvg-name="PREM HD: ISAT" tvg-logo="https://i.ibb.co/Qr1Ffh6/isat.png" group-title="CINE PREMIUM ",PREM HD: ISAT
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109430
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: CINELATINO" tvg-logo="https://i.ibb.co/8mt52HH/cc.png" group-title="CINE PREMIUM ",PREM SD: CINELATINO
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109431
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: DE PELÍCULA" tvg-logo="https://i.ibb.co/x1ngBbZ/depe.png" group-title="CINE PREMIUM ",PREM SD: DE PELÍCULA
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109432
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: DE PELÍCULAS CLASICO" tvg-logo="https://i.ibb.co/x1ngBbZ/depe.png" group-title="CINE PREMIUM ",PREM SD: DE PELÍCULAS CLASICO
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109433
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: DE PELÍCULA PLUS" tvg-logo="https://i.ibb.co/x1ngBbZ/depe.png" group-title="CINE PREMIUM ",PREM SD: DE PELÍCULA PLUS
-http://odenfull.co:2086/Arismau/db4C47br9Fda/109434
-#EXTINF:-1 tvg-id="" tvg-name="PREM SD: CINE LATINO" tvg-logo="" group-title="CINE PREMIUM ",PREM SD: CINE LATINO
-http://odenfull.co:2086/Arismau/db4C47br9Fda/121584
-#EXTINF:-1 tvg-id="" tvg-name="PREM HD: ACTIONMAX" tvg-logo="" group-title="CINE PREMIUM ",PREM HD: ACTIONMAX
-http://odenfull.co:2086/Arismau/db4C47br9Fda/121598
 #EXTINF:-1 tvg-id="AEChile.cl" tvg-name="WIN SPORTS 1" tvg-logo="http://odenfull.co:2086/images/0b08bd98d279b88859b628cd8c061ae0.png" group-title="WIN SPORTS + (PACK)",WIN SPORTS 1
 http://odenfull.co:2086/Arismau/db4C47br9Fda/134171
-#EXTINF:-1 tvg-id="Fox Sports (Fox Sports Col)" tvg-name="DEP SD: FOX SPORTS 1 (COL)" tvg-logo="https://i.ibb.co/VvDRXYF/sports1.png" group-title="DEPORTES SD/HD",DEP SD: FOX SPORTS 1 (COL)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135256
-#EXTINF:-1 tvg-id="Fox Sports (Fox Sports Col)" tvg-name="DEP HD: FOX SPORTS 1 (COL)" tvg-logo="https://i.ibb.co/VvDRXYF/sports1.png" group-title="DEPORTES SD/HD",DEP HD: FOX SPORTS 1 (COL)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135257
-#EXTINF:-1 tvg-id="Fox Sports 2 (Col)" tvg-name="DEP SD: FOX SPORTS 2 (COL)" tvg-logo="https://i.ibb.co/CKFtgzP/sports2.png" group-title="DEPORTES SD/HD",DEP SD: FOX SPORTS 2 (COL)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135258
-#EXTINF:-1 tvg-id="Fox Sports 2 (Col)" tvg-name="DEP HD: FOX SPORTS 2 (COL)" tvg-logo="https://i.ibb.co/CKFtgzP/sports2.png" group-title="DEPORTES SD/HD",DEP HD: FOX SPORTS 2 (COL)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135259
-#EXTINF:-1 tvg-id="Fox Sports 3 (Col)" tvg-name="DEP SD: FOX SPORTS 3 (COL)" tvg-logo="https://i.ibb.co/wYLywHC/sports3.png" group-title="DEPORTES SD/HD",DEP SD: FOX SPORTS 3 (COL)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135260
-#EXTINF:-1 tvg-id="Fox Sports 3 (Col)" tvg-name="DEP HD: FOX SPORTS 3 (COL)" tvg-logo="https://i.ibb.co/wYLywHC/sports3.png" group-title="DEPORTES SD/HD",DEP HD: FOX SPORTS 3 (COL)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135261
-#EXTINF:-1 tvg-id="Fox Sports (Arg)" tvg-name="DEP SD: FOX SPORTS 1 (ARG)" tvg-logo="https://i.ibb.co/VvDRXYF/sports1.png" group-title="DEPORTES SD/HD",DEP SD: FOX SPORTS 1 (ARG)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135263
-#EXTINF:-1 tvg-id="Fox Sports (Cono Norte)" tvg-name="DEP HD: FOX SPORTS 1 (ARG)" tvg-logo="http://odenfull.co:2086/images/6d7402ff98e7872ed7e4ab52ee7f3de8.png" group-title="DEPORTES SD/HD",DEP HD: FOX SPORTS 1 (ARG)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135264
-#EXTINF:-1 tvg-id="Fox Sports 2 (Arg)" tvg-name="DEP SD: FOX SPORTS 2 (ARG)" tvg-logo="https://i.ibb.co/CKFtgzP/sports2.png" group-title="DEPORTES SD/HD",DEP SD: FOX SPORTS 2 (ARG)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135265
-#EXTINF:-1 tvg-id="Fox Sports 2 (Arg)" tvg-name="DEP HD: FOX SPORTS 2 (ARG)" tvg-logo="https://i.ibb.co/CKFtgzP/sports2.png" group-title="DEPORTES SD/HD",DEP HD: FOX SPORTS 2 (ARG)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135266
-#EXTINF:-1 tvg-id="Fox Sports 3 (Arg)" tvg-name="DEP SD: FOX SPORTS 3 (ARG)" tvg-logo="https://i.ibb.co/wYLywHC/sports3.png" group-title="DEPORTES SD/HD",DEP SD: FOX SPORTS 3 (ARG)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135267
-#EXTINF:-1 tvg-id="Fox Sports 3 (Arg)" tvg-name="DEP HD: FOX SPORTS 3 (ARG)" tvg-logo="https://i.ibb.co/wYLywHC/sports3.png" group-title="DEPORTES SD/HD",DEP HD: FOX SPORTS 3 (ARG)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135268
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: FOX SPORTS 1 (CHI)" tvg-logo="https://i.ibb.co/VvDRXYF/sports1.png" group-title="DEPORTES SD/HD",DEP SD: FOX SPORTS 1 (CHI)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135269
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: FOX SPORTS 1 (CHI)" tvg-logo="https://i.ibb.co/VvDRXYF/sports1.png" group-title="DEPORTES SD/HD",DEP HD: FOX SPORTS 1 (CHI)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135270
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: FOX SPORTS LATINOAMERICA" tvg-logo="https://i.ibb.co/CKFtgzP/sports2.png" group-title="DEPORTES SD/HD",DEP SD: FOX SPORTS LATINOAMERICA
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135271
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: FOX SPORTS 2 (CHI)" tvg-logo="https://i.ibb.co/CKFtgzP/sports2.png" group-title="DEPORTES SD/HD",DEP HD: FOX SPORTS 2 (CHI)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135273
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: FOX SPORTS 3 (CHI)" tvg-logo="https://i.ibb.co/wYLywHC/sports3.png" group-title="DEPORTES SD/HD",DEP SD: FOX SPORTS 3 (CHI)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135274
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: FOX SPORTS 3 (CHI)" tvg-logo="https://i.ibb.co/wYLywHC/sports3.png" group-title="DEPORTES SD/HD",DEP HD: FOX SPORTS 3 (CHI)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135275
-#EXTINF:-1 tvg-id="Fox Sports (Cono Norte)" tvg-name="DEP SD: FOX SPORTS 1 (MEX)" tvg-logo="https://i.ibb.co/VvDRXYF/sports1.png" group-title="DEPORTES SD/HD",DEP SD: FOX SPORTS 1 (MEX)
+#EXTINF:-1 tvg-id="Fox Sports (Cono Norte)" tvg-name="DEP SD: FOX SPORTS 1 (MEX)" tvg-logo="https://i.ibb.co/VvDRXYF/sports1.png" group-title="DEPORTES MX",DEP SD: FOX SPORTS 1 (MEX)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135276
-#EXTINF:-1 tvg-id="Fox Sports (Cono Norte)" tvg-name="DEP HD: FOX SPORTS 1 (MEX)" tvg-logo="http://odenfull.co:2086/images/6d7402ff98e7872ed7e4ab52ee7f3de8.png" group-title="DEPORTES SD/HD",DEP HD: FOX SPORTS 1 (MEX)
+#EXTINF:-1 tvg-id="Fox Sports (Cono Norte)" tvg-name="DEP HD: FOX SPORTS 1 (MEX)" tvg-logo="http://odenfull.co:2086/images/6d7402ff98e7872ed7e4ab52ee7f3de8.png" group-title="DEPORTES MX",DEP HD: FOX SPORTS 1 (MEX)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135277
-#EXTINF:-1 tvg-id="Canal Fox Sports 2 (Cono Norte)" tvg-name="DEP SD: FOX SPORTS 2 (MEX)" tvg-logo="https://i.ibb.co/CKFtgzP/sports2.png" group-title="DEPORTES SD/HD",DEP SD: FOX SPORTS 2 (MEX)
+#EXTINF:-1 tvg-id="Canal Fox Sports 2 (Cono Norte)" tvg-name="DEP SD: FOX SPORTS 2 (MEX)" tvg-logo="https://i.ibb.co/CKFtgzP/sports2.png" group-title="DEPORTES MX",DEP SD: FOX SPORTS 2 (MEX)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135278
-#EXTINF:-1 tvg-id="Canal Fox Sports 2 (Cono Norte)" tvg-name="DEP HD: FOX SPORTS 2 (MEX)" tvg-logo="https://i.ibb.co/CKFtgzP/sports2.png" group-title="DEPORTES SD/HD",DEP HD: FOX SPORTS 2 (MEX)
+#EXTINF:-1 tvg-id="Canal Fox Sports 2 (Cono Norte)" tvg-name="DEP HD: FOX SPORTS 2 (MEX)" tvg-logo="https://i.ibb.co/CKFtgzP/sports2.png" group-title="DEPORTES MX",DEP HD: FOX SPORTS 2 (MEX)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135279
-#EXTINF:-1 tvg-id="Canal Fox Sports 3 (Cono Norte)" tvg-name="DEP SD: FOX SPORTS 3 (MEX)" tvg-logo="https://i.ibb.co/wYLywHC/sports3.png" group-title="DEPORTES SD/HD",DEP SD: FOX SPORTS 3 (MEX)
+#EXTINF:-1 tvg-id="Canal Fox Sports 3 (Cono Norte)" tvg-name="DEP SD: FOX SPORTS 3 (MEX)" tvg-logo="https://i.ibb.co/wYLywHC/sports3.png" group-title="DEPORTES MX",DEP SD: FOX SPORTS 3 (MEX)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135280
-#EXTINF:-1 tvg-id="Canal Fox Sports 3 (Cono Norte)" tvg-name="DEP HD: FOX SPORTS 3 (MEX)" tvg-logo="https://i.ibb.co/wYLywHC/sports3.png" group-title="DEPORTES SD/HD",DEP HD: FOX SPORTS 3 (MEX)
+#EXTINF:-1 tvg-id="Canal Fox Sports 3 (Cono Norte)" tvg-name="DEP HD: FOX SPORTS 3 (MEX)" tvg-logo="https://i.ibb.co/wYLywHC/sports3.png" group-title="DEPORTES MX",DEP HD: FOX SPORTS 3 (MEX)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135281
-#EXTINF:-1 tvg-id="Canal Fox Sports Premium (Argentina)" tvg-name="DEP SD: ESPN PREMIUM" tvg-logo="https://i.ibb.co/GTZLPKQ/foxsport.png" group-title="DEPORTES SD/HD",DEP SD: ESPN PREMIUM
+#EXTINF:-1 tvg-id="Canal Fox Sports Premium (Argentina)" tvg-name="DEP SD: ESPN PREMIUM" tvg-logo="https://i.ibb.co/GTZLPKQ/foxsport.png" group-title="DEPORTES MX",DEP SD: ESPN PREMIUM
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135282
-#EXTINF:-1 tvg-id="Canal Fox Sports Premium (Argentina)" tvg-name="DEP HD: ESPN PREMIUM" tvg-logo="https://i.ibb.co/GTZLPKQ/foxsport.png" group-title="DEPORTES SD/HD",DEP HD: ESPN PREMIUM
+#EXTINF:-1 tvg-id="Canal Fox Sports Premium (Argentina)" tvg-name="DEP HD: ESPN PREMIUM" tvg-logo="https://i.ibb.co/GTZLPKQ/foxsport.png" group-title="DEPORTES MX",DEP HD: ESPN PREMIUM
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135283
 #EXTINF:-1 tvg-id="" tvg-name="DEP SD: TNT SPORTS" tvg-logo="https://i.ibb.co/W5Fgd9L/tnt2.png" group-title="DEPORTES SD/HD",DEP SD: TNT SPORTS
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135284
 #EXTINF:-1 tvg-id="" tvg-name="DEP HD: TNT SPORTS" tvg-logo="https://i.ibb.co/W5Fgd9L/tnt2.png" group-title="DEPORTES SD/HD",DEP HD: TNT SPORTS
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135285
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: DIRECTV SPORTS 1 (COL)" tvg-logo="http://odenfull.co:2086/images/14d7edbe633da1db533aad1a39cc7500.png" group-title="DEPORTES SD/HD",DEP SD: DIRECTV SPORTS 1 (COL)
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: DIRECTV SPORTS 1 (COL)" tvg-logo="http://odenfull.co:2086/images/14d7edbe633da1db533aad1a39cc7500.png" group-title="DEPORTES MX",DEP SD: DIRECTV SPORTS 1 (COL)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135311
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: DIRECTV SPORTS 1 (COL)" tvg-logo="http://odenfull.co:2086/images/14d7edbe633da1db533aad1a39cc7500.png" group-title="DEPORTES SD/HD",DEP HD: DIRECTV SPORTS 1 (COL)
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: DIRECTV SPORTS 1 (COL)" tvg-logo="http://odenfull.co:2086/images/14d7edbe633da1db533aad1a39cc7500.png" group-title="DEPORTES MX",DEP HD: DIRECTV SPORTS 1 (COL)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135312
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: DIRECTV SPORTS 1 (ECU)" tvg-logo="http://odenfull.co:2086/images/14d7edbe633da1db533aad1a39cc7500.png" group-title="DEPORTES SD/HD",DEP HD: DIRECTV SPORTS 1 (ECU)
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: DIRECTV SPORTS 1 (ECU)" tvg-logo="http://odenfull.co:2086/images/14d7edbe633da1db533aad1a39cc7500.png" group-title="DEPORTES MX",DEP HD: DIRECTV SPORTS 1 (ECU)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135314
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: DIRECTV SPORTS 2" tvg-logo="http://odenfull.co:2086/images/831d948420ff2f9baecd094d0b05e2d7.png" group-title="DEPORTES SD/HD",DEP SD: DIRECTV SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: DIRECTV SPORTS 2" tvg-logo="http://odenfull.co:2086/images/831d948420ff2f9baecd094d0b05e2d7.png" group-title="DEPORTES MX",DEP SD: DIRECTV SPORTS 2
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135315
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: DIRECTV SPORTS 2" tvg-logo="http://odenfull.co:2086/images/831d948420ff2f9baecd094d0b05e2d7.png" group-title="DEPORTES SD/HD",DEP HD: DIRECTV SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: DIRECTV SPORTS 2" tvg-logo="http://odenfull.co:2086/images/831d948420ff2f9baecd094d0b05e2d7.png" group-title="DEPORTES MX",DEP HD: DIRECTV SPORTS 2
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135316
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: DIRECTV SPORTS +" tvg-logo="http://odenfull.co:2086/images/3823552b7a2b839259a831e3b7b349a3.png" group-title="DEPORTES SD/HD",DEP HD: DIRECTV SPORTS +
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: DIRECTV SPORTS +" tvg-logo="http://odenfull.co:2086/images/3823552b7a2b839259a831e3b7b349a3.png" group-title="DEPORTES MX",DEP HD: DIRECTV SPORTS +
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135318
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR DEPORTES (PER)" tvg-logo="https://i.ibb.co/BqZQmdd/movista.png" group-title="DEPORTES SD/HD",DEP HD: MOVISTAR DEPORTES (PER)
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR DEPORTES (PER)" tvg-logo="https://i.ibb.co/BqZQmdd/movista.png" group-title="DEPORTES MX",DEP HD: MOVISTAR DEPORTES (PER)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135321
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR DEPORTES" tvg-logo="https://i.ibb.co/jG8LwW4/vamos.png" group-title="DEPORTES SD/HD",DEP SD: MOVISTAR DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR DEPORTES" tvg-logo="https://i.ibb.co/jG8LwW4/vamos.png" group-title="DEPORTES MX",DEP SD: MOVISTAR DEPORTES
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135324
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: SKY SPORTS F1" tvg-logo="https://i.ibb.co/dbXB5Yg/for.png" group-title="DEPORTES SD/HD",DEP SD: SKY SPORTS F1
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: SKY SPORTS F1" tvg-logo="https://i.ibb.co/dbXB5Yg/for.png" group-title="DEPORTES MX",DEP SD: SKY SPORTS F1
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135326
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR FÓRMULA 1" tvg-logo="https://i.ibb.co/dbXB5Yg/for.png" group-title="DEPORTES SD/HD",DEP HD: MOVISTAR FÓRMULA 1
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR FÓRMULA 1" tvg-logo="https://i.ibb.co/dbXB5Yg/for.png" group-title="DEPORTES MX",DEP HD: MOVISTAR FÓRMULA 1
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135327
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR GOLF" tvg-logo="https://i.ibb.co/M85r7hH/mogolf.png" group-title="DEPORTES SD/HD",DEP SD: MOVISTAR GOLF
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR GOLF" tvg-logo="https://i.ibb.co/M85r7hH/mogolf.png" group-title="DEPORTES MX",DEP SD: MOVISTAR GOLF
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135328
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR TV" tvg-logo="https://i.ibb.co/M85r7hH/mogolf.png" group-title="DEPORTES SD/HD",DEP HD: MOVISTAR TV
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR TV" tvg-logo="https://i.ibb.co/M85r7hH/mogolf.png" group-title="DEPORTES MX",DEP HD: MOVISTAR TV
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135329
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR TOROS" tvg-logo="https://th.bing.com/th/id/R.a0dfd96d401317536f66994cfbd94205?rik=A%2freZinIDDCH8g&pid=ImgRaw&r=0" group-title="DEPORTES SD/HD",DEP SD: MOVISTAR TOROS
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR TOROS" tvg-logo="https://th.bing.com/th/id/R.a0dfd96d401317536f66994cfbd94205?rik=A%2freZinIDDCH8g&pid=ImgRaw&r=0" group-title="DEPORTES MX",DEP SD: MOVISTAR TOROS
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135330
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA DE CAMPEONES (OPC 1)" tvg-logo="https://i.ibb.co/r2ks5t4/movis.png" group-title="DEPORTES SD/HD",DEP HD: MOVISTAR LA LIGA DE CAMPEONES (OPC 1)
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA DE CAMPEONES (OPC 1)" tvg-logo="https://i.ibb.co/r2ks5t4/movis.png" group-title="DEPORTES MX",DEP HD: MOVISTAR LA LIGA DE CAMPEONES (OPC 1)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135333
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA DE CAMPEONES (OPC 2)" tvg-logo="http://odenfull.co:2086/images/b9288d51b50ece7125fb53a718743cf4.png" group-title="DEPORTES SD/HD",DEP HD: MOVISTAR LA LIGA DE CAMPEONES (OPC 2)
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA DE CAMPEONES (OPC 2)" tvg-logo="http://odenfull.co:2086/images/b9288d51b50ece7125fb53a718743cf4.png" group-title="DEPORTES MX",DEP HD: MOVISTAR LA LIGA DE CAMPEONES (OPC 2)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135335
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR LA LIGA (SOLO EVENTOS)" tvg-logo="http://odenfull.co:2086/images/42efa966be81a41cf92f0b7ffda49c4f.png" group-title="DEPORTES SD/HD",DEP SD: MOVISTAR LA LIGA (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR LA LIGA (SOLO EVENTOS)" tvg-logo="http://odenfull.co:2086/images/42efa966be81a41cf92f0b7ffda49c4f.png" group-title="DEPORTES MX",DEP SD: MOVISTAR LA LIGA (SOLO EVENTOS)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135336
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA (OPC 1)" tvg-logo="http://odenfull.co:2086/images/42efa966be81a41cf92f0b7ffda49c4f.png" group-title="DEPORTES SD/HD",DEP HD: MOVISTAR LA LIGA (OPC 1)
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA (OPC 1)" tvg-logo="http://odenfull.co:2086/images/42efa966be81a41cf92f0b7ffda49c4f.png" group-title="DEPORTES MX",DEP HD: MOVISTAR LA LIGA (OPC 1)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135337
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR LA LIGA (OPC 2)" tvg-logo="http://odenfull.co:2086/images/42efa966be81a41cf92f0b7ffda49c4f.png" group-title="DEPORTES SD/HD",DEP SD: MOVISTAR LA LIGA (OPC 2)
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR LA LIGA (OPC 2)" tvg-logo="http://odenfull.co:2086/images/42efa966be81a41cf92f0b7ffda49c4f.png" group-title="DEPORTES MX",DEP SD: MOVISTAR LA LIGA (OPC 2)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135338
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA (OPC 2)" tvg-logo="http://odenfull.co:2086/images/42efa966be81a41cf92f0b7ffda49c4f.png" group-title="DEPORTES SD/HD",DEP HD: MOVISTAR LA LIGA (OPC 2)
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA (OPC 2)" tvg-logo="http://odenfull.co:2086/images/42efa966be81a41cf92f0b7ffda49c4f.png" group-title="DEPORTES MX",DEP HD: MOVISTAR LA LIGA (OPC 2)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135339
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA 1" tvg-logo="http://odenfull.co:2086/images/42efa966be81a41cf92f0b7ffda49c4f.png" group-title="DEPORTES SD/HD",DEP HD: MOVISTAR LA LIGA 1
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA 1" tvg-logo="http://odenfull.co:2086/images/42efa966be81a41cf92f0b7ffda49c4f.png" group-title="DEPORTES MX",DEP HD: MOVISTAR LA LIGA 1
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135340
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA (OPC 3)" tvg-logo="http://odenfull.co:2086/images/42efa966be81a41cf92f0b7ffda49c4f.png" group-title="DEPORTES SD/HD",DEP HD: MOVISTAR LA LIGA (OPC 3)
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA (OPC 3)" tvg-logo="http://odenfull.co:2086/images/42efa966be81a41cf92f0b7ffda49c4f.png" group-title="DEPORTES MX",DEP HD: MOVISTAR LA LIGA (OPC 3)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135341
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR 4K" tvg-logo="https://i.ibb.co/cxFJTRG/movistar.png" group-title="DEPORTES SD/HD",DEP SD: MOVISTAR 4K
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR 4K" tvg-logo="https://i.ibb.co/cxFJTRG/movistar.png" group-title="DEPORTES MX",DEP SD: MOVISTAR 4K
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135342
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA (OPC 4)" tvg-logo="https://i.ibb.co/cxFJTRG/movistar.png" group-title="DEPORTES SD/HD",DEP HD: MOVISTAR LA LIGA (OPC 4)
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA (OPC 4)" tvg-logo="https://i.ibb.co/cxFJTRG/movistar.png" group-title="DEPORTES MX",DEP HD: MOVISTAR LA LIGA (OPC 4)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135343
-#EXTINF:-1 tvg-id="" tvg-name="DEP: LA LIGA TV BAR" tvg-logo="https://i.ibb.co/tmbDBmm/liga.png" group-title="DEPORTES SD/HD",DEP: LA LIGA TV BAR
+#EXTINF:-1 tvg-id="" tvg-name="DEP: LA LIGA TV BAR" tvg-logo="https://i.ibb.co/tmbDBmm/liga.png" group-title="DEPORTES MX",DEP: LA LIGA TV BAR
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135346
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA (OPC 5)" tvg-logo="https://i.ibb.co/tmbDBmm/liga.png" group-title="DEPORTES SD/HD",DEP HD: MOVISTAR LA LIGA (OPC 5)
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA (OPC 5)" tvg-logo="https://i.ibb.co/tmbDBmm/liga.png" group-title="DEPORTES MX",DEP HD: MOVISTAR LA LIGA (OPC 5)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135347
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BEIN SPORTS Ñ (OPC 1)" tvg-logo="http://odenfull.co:2086/images/356f2fcf827e91006729d4f2f634304f.png" group-title="DEPORTES SD/HD",DEP HD: BEIN SPORTS Ñ (OPC 1)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135349
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BEIN SPORTS Ñ (OPC 2)" tvg-logo="http://odenfull.co:2086/images/356f2fcf827e91006729d4f2f634304f.png" group-title="DEPORTES SD/HD",DEP HD: BEIN SPORTS Ñ (OPC 2)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135351
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: BEIN SPORTS Ñ (OPC 3)" tvg-logo="http://odenfull.co:2086/images/356f2fcf827e91006729d4f2f634304f.png" group-title="DEPORTES SD/HD",DEP SD: BEIN SPORTS Ñ (OPC 3)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135352
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: BEIN SPORTS HD USA" tvg-logo="https://i.ibb.co/wdQc2Gs/bein.png" group-title="DEPORTES SD/HD",DEP SD: BEIN SPORTS HD USA
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135354
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BEIN SPORTS HD USA" tvg-logo="https://i.ibb.co/wdQc2Gs/bein.png" group-title="DEPORTES SD/HD",DEP HD: BEIN SPORTS HD USA
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135355
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BEIN SPORTS HD 1" tvg-logo="https://i.ibb.co/wdQc2Gs/bein.png" group-title="DEPORTES SD/HD",DEP HD: BEIN SPORTS HD 1
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135357
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BEIN SPORTS HD 2" tvg-logo="https://i.ibb.co/803CbQg/BEIN-SPORT-HD2.png" group-title="DEPORTES SD/HD",DEP HD: BEIN SPORTS HD 2
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135358
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BEIN SPORTS HD 3" tvg-logo="http://odenfull.co:2086/images/cbb9e87e4b7c2e301ce71d554ace07e1.png" group-title="DEPORTES SD/HD",DEP HD: BEIN SPORTS HD 3
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135359
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BEIN SPORTS HD 4" tvg-logo="http://odenfull.co:2086/images/76d8153a1da186797706834082c79e89.png" group-title="DEPORTES SD/HD",DEP HD: BEIN SPORTS HD 4
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135360
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BEIN SPORTS HD 5" tvg-logo="https://fotos.subefotos.com/416d72d87b5404c25726ed166e6899fao.png" group-title="DEPORTES SD/HD",DEP HD: BEIN SPORTS HD 5
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135361
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BEIN SPORTS HD 6" tvg-logo="http://odenfull.co:2086/images/98f9781245769205aa9de58537fa28b1.png" group-title="DEPORTES SD/HD",DEP HD: BEIN SPORTS HD 6
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135362
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BEIN SPORTS LA LIGA" tvg-logo="https://i.ibb.co/Rz9d508/BEINS-SPORT-8.png" group-title="DEPORTES SD/HD",DEP HD: BEIN SPORTS LA LIGA
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135364
-#EXTINF:-1 tvg-id="" tvg-name="DEP: REAL MADRID" tvg-logo="http://odenfull.co:2086/images/4bca24304861acde5770fdbe3cc2503b.png" group-title="DEPORTES SD/HD",DEP: REAL MADRID
+#EXTINF:-1 tvg-id="" tvg-name="DEP: REAL MADRID" tvg-logo="http://odenfull.co:2086/images/4bca24304861acde5770fdbe3cc2503b.png" group-title="DEPORTES MX",DEP: REAL MADRID
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135365
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS 2" tvg-logo="https://i.ibb.co/vc8L0t3/SKY-SPORTS.png" group-title="DEPORTES SD/HD",DEP HD: SKY SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS 2" tvg-logo="https://i.ibb.co/vc8L0t3/SKY-SPORTS.png" group-title="DEPORTES MX",DEP HD: SKY SPORTS 2
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135367
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS PREMIER LEAGUE (OPC 1)" tvg-logo="http://odenfull.co:2086/images/4f9982f6d1dfd19d5a81bfef55e16c2e.png" group-title="DEPORTES SD/HD",DEP HD: SKY SPORTS PREMIER LEAGUE (OPC 1)
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS PREMIER LEAGUE (OPC 1)" tvg-logo="http://odenfull.co:2086/images/4f9982f6d1dfd19d5a81bfef55e16c2e.png" group-title="DEPORTES MX",DEP HD: SKY SPORTS PREMIER LEAGUE (OPC 1)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135368
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS PREMIER LEAGUE (OPC 2)" tvg-logo="http://odenfull.co:2086/images/4f9982f6d1dfd19d5a81bfef55e16c2e.png" group-title="DEPORTES SD/HD",DEP HD: SKY SPORTS PREMIER LEAGUE (OPC 2)
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS PREMIER LEAGUE (OPC 2)" tvg-logo="http://odenfull.co:2086/images/4f9982f6d1dfd19d5a81bfef55e16c2e.png" group-title="DEPORTES MX",DEP HD: SKY SPORTS PREMIER LEAGUE (OPC 2)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135369
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS FOOTBALL" tvg-logo="" group-title="DEPORTES SD/HD",DEP HD: SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS FOOTBALL" tvg-logo="" group-title="DEPORTES MX",DEP HD: SKY SPORTS FOOTBALL
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135370
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS SERIE A" tvg-logo="" group-title="DEPORTES SD/HD",DEP HD: SKY SPORTS SERIE A
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS SERIE A" tvg-logo="" group-title="DEPORTES MX",DEP HD: SKY SPORTS SERIE A
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135372
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS ACTION" tvg-logo="http://odenfull.co:2086/images/154c972dd3f37f7e52b46297d83bb38f.png" group-title="DEPORTES SD/HD",DEP HD: SKY SPORTS ACTION
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS ACTION" tvg-logo="http://odenfull.co:2086/images/154c972dd3f37f7e52b46297d83bb38f.png" group-title="DEPORTES MX",DEP HD: SKY SPORTS ACTION
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135375
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS GOLF" tvg-logo="https://i.ibb.co/FDKNhDD/SKY-SPORTS-GOLF.png" group-title="DEPORTES SD/HD",DEP HD: SKY SPORTS GOLF
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS GOLF" tvg-logo="https://i.ibb.co/FDKNhDD/SKY-SPORTS-GOLF.png" group-title="DEPORTES MX",DEP HD: SKY SPORTS GOLF
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135378
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS MOTO GP" tvg-logo="http://odenfull.co:2086/images/30056e1cab7a61d256fc8edd970d14f5.png" group-title="DEPORTES SD/HD",DEP HD: SKY SPORTS MOTO GP
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS MOTO GP" tvg-logo="http://odenfull.co:2086/images/30056e1cab7a61d256fc8edd970d14f5.png" group-title="DEPORTES MX",DEP HD: SKY SPORTS MOTO GP
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135379
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: PREMIER SPORTS 1 " tvg-logo="https://i.ibb.co/D4S3dFJ/premier-sports-2.png" group-title="DEPORTES SD/HD",DEP HD: PREMIER SPORTS 1 
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: PREMIER SPORTS 1 " tvg-logo="https://i.ibb.co/D4S3dFJ/premier-sports-2.png" group-title="DEPORTES MX",DEP HD: PREMIER SPORTS 1 
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135380
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: GOL TV LAT (OPC 1)" tvg-logo="https://i.ibb.co/NV4YgKQ/goltv.png" group-title="DEPORTES SD/HD",DEP HD: GOL TV LAT (OPC 1)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135382
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: GOL TV (ENG)" tvg-logo="https://i.ibb.co/NV4YgKQ/goltv.png" group-title="DEPORTES SD/HD",DEP HD: GOL TV (ENG)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135384
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: EUROSPORTS 1 (OPC 1)" tvg-logo="https://i.ibb.co/vsnycjw/euro1.png" group-title="DEPORTES SD/HD",DEP HD: EUROSPORTS 1 (OPC 1)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135385
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: EUROSPORTS 1 (OPC 2)" tvg-logo="https://i.ibb.co/vsnycjw/euro1.png" group-title="DEPORTES SD/HD",DEP HD: EUROSPORTS 1 (OPC 2)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135386
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: EUROSPORTS 1 (OPC 3)" tvg-logo="https://i.ibb.co/vsnycjw/euro1.png" group-title="DEPORTES SD/HD",DEP HD: EUROSPORTS 1 (OPC 3)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135387
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: EUROSPORT 2 (OPC 1)" tvg-logo="https://i.ibb.co/S6QdYZn/euro2.png" group-title="DEPORTES SD/HD",DEP HD: EUROSPORT 2 (OPC 1)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135389
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="DEP HD: EUROSPORT 2 (OPC 2)" tvg-logo="https://i.ibb.co/S6QdYZn/euro2.png" group-title="DEPORTES SD/HD",DEP HD: EUROSPORT 2 (OPC 2)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135390
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="DEP HD: EUROSPORT 2 (OPC 3)" tvg-logo="https://i.ibb.co/S6QdYZn/euro2.png" group-title="DEPORTES SD/HD",DEP HD: EUROSPORT 2 (OPC 3)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135391
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="DEP HD: EUROSPORT 2 (OPC 4)" tvg-logo="https://i.ibb.co/S6QdYZn/euro2.png" group-title="DEPORTES SD/HD",DEP HD: EUROSPORT 2 (OPC 4)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135392
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: GOLF CHANNEL (USA)" tvg-logo="https://i.ibb.co/Yc6gvKD/golf.png" group-title="DEPORTES SD/HD",DEP HD: GOLF CHANNEL (USA)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135393
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: GOLF CHANNEL (LAT)" tvg-logo="https://i.ibb.co/Yc6gvKD/golf.png" group-title="DEPORTES SD/HD",DEP HD: GOLF CHANNEL (LAT)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135394
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MORE GOLF" tvg-logo="https://i.ibb.co/YXpzNHd/more.png" group-title="DEPORTES SD/HD",DEP HD: MORE GOLF
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135396
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BT SPORT 1" tvg-logo="http://odenfull.co:2086/images/95578b605685bce8458ae19535f12a53.png" group-title="DEPORTES SD/HD",DEP HD: BT SPORT 1
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135397
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BT SPORT 2" tvg-logo="http://odenfull.co:2086/images/f766419fe310f25336a40e87a65fb6a7.png" group-title="DEPORTES SD/HD",DEP HD: BT SPORT 2
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135398
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: BT SPORT 3" tvg-logo="https://i.ibb.co/WVgwL7Z/bt-sport-3.png" group-title="DEPORTES SD/HD",DEP HD: BT SPORT 3
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135399
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: FIGHT NETWORK" tvg-logo="https://i.ibb.co/nBYLwKJ/FIGHT-NETWORK.png" group-title="DEPORTES SD/HD",DEP HD: FIGHT NETWORK
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135400
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: FIGHTNET" tvg-logo="" group-title="DEPORTES SD/HD",DEP HD: FIGHTNET
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135401
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: TENNIS CHANNEL" tvg-logo="http://odenfull.co:2086/images/4b942b78d6606e178d53eb69acf6a67c.png" group-title="DEPORTES SD/HD",DEP HD: TENNIS CHANNEL
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135402
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SUPER TENNIS HD" tvg-logo="http://odenfull.co:2086/images/4b942b78d6606e178d53eb69acf6a67c.png" group-title="DEPORTES SD/HD",DEP HD: SUPER TENNIS HD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135405
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: CLARO SPORTS " tvg-logo="http://odenfull.co:2086/images/70a3ef126565ccabff7e67661b0eb115.png" group-title="DEPORTES SD/HD",DEP HD: CLARO SPORTS 
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: CLARO SPORTS " tvg-logo="http://odenfull.co:2086/images/70a3ef126565ccabff7e67661b0eb115.png" group-title="DEPORTES MX",DEP HD: CLARO SPORTS 
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135406
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ELEVEN SPORTS 1" tvg-logo="http://odenfull.co:2086/images/a85992e0b60d5edf9e20edba7517f374.png" group-title="DEPORTES SD/HD",DEP HD: ELEVEN SPORTS 1
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135407
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ELEVEN SPORTS 3" tvg-logo="http://odenfull.co:2086/images/a85992e0b60d5edf9e20edba7517f374.png" group-title="DEPORTES SD/HD",DEP HD: ELEVEN SPORTS 3
-http://odenfull.co:2086/Arismau/db4C47br9Fda/135409
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: DAZN 1" tvg-logo="https://i.ibb.co/Qc8nb9g/DAZN.png" group-title="DEPORTES SD/HD",DEP HD: DAZN 1
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: DAZN 1" tvg-logo="https://i.ibb.co/Qc8nb9g/DAZN.png" group-title="DEPORTES MX",DEP HD: DAZN 1
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135414
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: DAZN 2" tvg-logo="https://i.ibb.co/Qc8nb9g/DAZN.png" group-title="DEPORTES SD/HD",DEP HD: DAZN 2
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: DAZN 2" tvg-logo="https://i.ibb.co/Qc8nb9g/DAZN.png" group-title="DEPORTES MX",DEP HD: DAZN 2
 http://odenfull.co:2086/Arismau/db4C47br9Fda/135415
-#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 TV" tvg-logo="http://odenfull.co:2086/images/b4d9970fe4b1a180773c73ef6eba7cfe.png" group-title="DEPORTES SD/HD",FORMULA 1 TV
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 TV" tvg-logo="http://odenfull.co:2086/images/b4d9970fe4b1a180773c73ef6eba7cfe.png" group-title="DEPORTES MX",FORMULA 1 TV
 http://odenfull.co:2086/Arismau/db4C47br9Fda/147718
-#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 HD ACCES VIP" tvg-logo="http://odenfull.co:2086/images/b4d9970fe4b1a180773c73ef6eba7cfe.png" group-title="DEPORTES SD/HD",FORMULA 1 HD ACCES VIP
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 HD ACCES VIP" tvg-logo="http://odenfull.co:2086/images/b4d9970fe4b1a180773c73ef6eba7cfe.png" group-title="DEPORTES MX",FORMULA 1 HD ACCES VIP
 http://odenfull.co:2086/Arismau/db4C47br9Fda/147719
-#EXTINF:-1 tvg-id="" tvg-name="MOTO GP" tvg-logo="http://odenfull.co:2086/images/30056e1cab7a61d256fc8edd970d14f5.png" group-title="DEPORTES SD/HD",MOTO GP
-http://odenfull.co:2086/Arismau/db4C47br9Fda/181322
-#EXTINF:-1 tvg-id="" tvg-name="MOTO GP RACING" tvg-logo="http://odenfull.co:2086/images/30056e1cab7a61d256fc8edd970d14f5.png" group-title="DEPORTES SD/HD",MOTO GP RACING
-http://odenfull.co:2086/Arismau/db4C47br9Fda/181323
-#EXTINF:-1 tvg-id="" tvg-name="DEP: BARCA TV" tvg-logo="" group-title="DEPORTES SD/HD",DEP: BARCA TV
-http://odenfull.co:2086/Arismau/db4C47br9Fda/203310
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS + (OPC 6)" tvg-logo="http://odenfull.co:2086/images/0b08bd98d279b88859b628cd8c061ae0.png" group-title="WIN SPORTS + (PACK)",WIN SPORTS + (OPC 6)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/208577
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS 3" tvg-logo="http://odenfull.co:2086/images/0b08bd98d279b88859b628cd8c061ae0.png" group-title="WIN SPORTS + (PACK)",WIN SPORTS 3
@@ -411,10 +237,6 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/208583
 http://odenfull.co:2086/Arismau/db4C47br9Fda/208585
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS + (OPC 8)" tvg-logo="http://odenfull.co:2086/images/0b08bd98d279b88859b628cd8c061ae0.png" group-title="WIN SPORTS + (PACK)",WIN SPORTS + (OPC 8)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/208586
-#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="" group-title="DEPORTES SD/HD",RED BULL TV
-http://odenfull.co:2086/Arismau/db4C47br9Fda/208598
-#EXTINF:-1 tvg-id="" tvg-name="PREM: MORBIDO TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/M%C3%B3rbido_TV.png/revision/latest?cb=20210527220851&path-prefix=es" group-title="CINE PREMIUM ",PREM: MORBIDO TV
-http://odenfull.co:2086/Arismau/db4C47br9Fda/210875
 #EXTINF:-1 tvg-id="" tvg-name="DEP: TYC SPORTS" tvg-logo="http://moontools.me:8080/intercambio2/XzWCqH3m36/19568" group-title="DEPORTES SD/HD",DEP: TYC SPORTS
 http://odenfull.co:2086/Arismau/db4C47br9Fda/210634
 #EXTINF:-1 tvg-id="" tvg-name="DEP: TYC SPORTS INTERNACIONAL" tvg-logo="http://odenfull.co:2086/images/0b480bf12da2d0a2d991df073994174a.jpg" group-title="DEPORTES SD/HD",DEP: TYC SPORTS INTERNACIONAL
@@ -507,55 +329,8 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/31653
 http://odenfull.co:2086/Arismau/db4C47br9Fda/31657
 #EXTINF:-1 tvg-id="" tvg-name="LAT HD:  UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/NFPjNdW/ACT.png" group-title="CINE PREMIUM ",LAT HD:  UNIVERSAL REALITY
 http://odenfull.co:2086/Arismau/db4C47br9Fda/186020
-
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR TOROS" tvg-logo="https://th.bing.com/th/id/R.a0dfd96d401317536f66994cfbd94205?rik=A%2freZinIDDCH8g&pid=ImgRaw&r=0" group-title="DEPORTES SD/HD",MOVISTAR TOROS
-http://odenfull.co:2086/Arismau/db4C47br9Fda/209534
-#EXTINF:-1 tvg-id="" tvg-name="PREM HD: TBS" tvg-logo="" group-title="CINE PREMIUM ",PREM HD: TBS
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212206
-#EXTINF:-1 tvg-id="ESPN Sur Arg" tvg-name="⚽️ESPN⚽️" tvg-logo="https://th.bing.com/th/id/OIP.PBQuAjBgNv-WnoPKoJn3iQHaFj?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="OFF EVENTOS DEL DIA OFF",⚽️ESPN⚽️
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky News Extra 1" tvg-logo="http://odenfull.co:2086/images/a78998284cfdb494b16596661cb6ea71.png" group-title="VARIOS 1",Sky News Extra 1
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212801
-#EXTINF:-1 tvg-id="" tvg-name="Sky News Extra 3" tvg-logo="http://odenfull.co:2086/images/a78998284cfdb494b16596661cb6ea71.png" group-title="VARIOS 1",Sky News Extra 3
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212802
-#EXTINF:-1 tvg-id="" tvg-name="⚽️ESPN 4⚽️" tvg-logo="https://th.bing.com/th/id/OIP.PBQuAjBgNv-WnoPKoJn3iQHaFj?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="OFF EVENTOS DEL DIA OFF",⚽️ESPN 4⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212841
-#EXTINF:-1 tvg-id="ESPN 3 Sur Arg" tvg-name="⚽️ESPN 3⚽️" tvg-logo="https://th.bing.com/th/id/OIP.PBQuAjBgNv-WnoPKoJn3iQHaFj?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="OFF EVENTOS DEL DIA OFF",⚽️ESPN 3⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212845
-#EXTINF:-1 tvg-id="" tvg-name="⚽️TNT SPORTS 3⚽️ " tvg-logo="http://odenfull.co:2086/images/85f2276469b579ab3f681f91a92c8243.png" group-title="OFF EVENTOS DEL DIA OFF",⚽️TNT SPORTS 3⚽️ 
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212846
-#EXTINF:-1 tvg-id="" tvg-name="⚽️MOVISTAR DEPORTE⚽️" tvg-logo="https://th.bing.com/th/id/R.a643d7207c8ceb156be3dd51638318ff?rik=rrP94bOv5NA%2bRA&pid=ImgRaw&r=0" group-title="OFF EVENTOS DEL DIA OFF",⚽️MOVISTAR DEPORTE⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212847
-#EXTINF:-1 tvg-id="" tvg-name="⚽️FOX SOCCER PLUS 1⚽️" tvg-logo="https://th.bing.com/th/id/OIP.zOWp-chgqoRv46aug_mO8AHaGl?w=195&h=180&c=7&r=0&o=5&pid=1.7" group-title="OFF EVENTOS DEL DIA OFF",⚽️FOX SOCCER PLUS 1⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212848
-#EXTINF:-1 tvg-id="" tvg-name="⚽️PREMIERE LEAGUE⚽️" tvg-logo="https://th.bing.com/th/id/OIP.dM6gBT9nvOThT2gRJMS-hwAAAA?w=202&h=176&c=7&r=0&o=5&pid=1.7" group-title="OFF EVENTOS DEL DIA OFF",⚽️PREMIERE LEAGUE⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212849
-#EXTINF:-1 tvg-id="" tvg-name="⚽️TUDN EVENTOS⚽️" tvg-logo="https://th.bing.com/th?q=Tudn+Univision+TDN+Logo&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-XL&cc=CO&setlang=en&adlt=moderate&t=1&mw=247" group-title="OFF EVENTOS DEL DIA OFF",⚽️TUDN EVENTOS⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212850
-#EXTINF:-1 tvg-id="" tvg-name="⚽️DAZN 2⚽️" tvg-logo="https://th.bing.com/th/id/OIP.sir0YLcPdlRHIEkeMrENtQHaHd?w=186&h=187&c=7&r=0&o=5&pid=1.7" group-title="OFF EVENTOS DEL DIA OFF",⚽️DAZN 2⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212852
-#EXTINF:-1 tvg-id="" tvg-name="⚽️MOVISTAR LIGA DE CAMPEONES⚽️" tvg-logo="https://th.bing.com/th/id/R.a643d7207c8ceb156be3dd51638318ff?rik=rrP94bOv5NA%2bRA&pid=ImgRaw&r=0" group-title="OFF EVENTOS DEL DIA OFF",⚽️MOVISTAR LIGA DE CAMPEONES⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212875
-#EXTINF:-1 tvg-id="" tvg-name="⚽️CHAMPIONS⚽️" tvg-logo="https://uploads.dailydot.com/2020/08/champions-league-square-logo.jpg?auto=compress%2Cformat&fit=scale&h=2048&ixlib=php-3.3.0&w=2048&wpsize=2048x2048" group-title="OFF EVENTOS DEL DIA OFF",⚽️CHAMPIONS⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212876
-#EXTINF:-1 tvg-id="" tvg-name="⚽️LA LIGA 2⚽️ " tvg-logo="https://th.bing.com/th/id/OIP.aodK3XbD1Ej7rFoz1wppFQHaHa?w=194&h=194&c=7&r=0&o=5&pid=1.7" group-title="OFF EVENTOS DEL DIA OFF",⚽️LA LIGA 2⚽️ 
-http://odenfull.co:2086/Arismau/db4C47br9Fda/212877
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS 2" tvg-logo="http://odenfull.co:2086/images/0b08bd98d279b88859b628cd8c061ae0.png" group-title="WIN SPORTS + (PACK)",WIN SPORTS 2
 http://odenfull.co:2086/Arismau/db4C47br9Fda/213255
-#EXTINF:-1 tvg-id="" tvg-name="⚽️UNIVERSO⚽️" tvg-logo="https://allamericandish.com/wp-content/uploads/2020/08/UNIVERSO_LOGO_cmyk.png" group-title="OFF EVENTOS DEL DIA OFF",⚽️UNIVERSO⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/213256
-#EXTINF:-1 tvg-id="" tvg-name="⚽️ESPN DEPORTES HD⚽️" tvg-logo="https://th.bing.com/th/id/OIP.PBQuAjBgNv-WnoPKoJn3iQHaFj?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="OFF EVENTOS DEL DIA OFF",⚽️ESPN DEPORTES HD⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/213261
-#EXTINF:-1 tvg-id="" tvg-name="⚽️LA LIGA⚽️" tvg-logo="https://th.bing.com/th/id/OIP.aodK3XbD1Ej7rFoz1wppFQHaHa?w=194&h=194&c=7&r=0&o=5&pid=1.7" group-title="OFF EVENTOS DEL DIA OFF",⚽️LA LIGA⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/213295
-#EXTINF:-1 tvg-id="" tvg-name="⚽️DIRECTV SPORTS +⚽️" tvg-logo="https://yt3.ggpht.com/a/AGF-l78RoSgQNS0AjYVsVM4JEHMmx0xgFdKvj09nfw=s900-c-k-c0xffffffff-no-rj-mo" group-title="OFF EVENTOS DEL DIA OFF",⚽️DIRECTV SPORTS +⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/213296
-#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG 3 SD" tvg-logo="" group-title="DEPORTES SD/HD",ESPN ARG 3 SD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/213312
-#EXTINF:-1 tvg-id="" tvg-name="⚽️ESPN HD⚽️" tvg-logo="https://th.bing.com/th/id/OIP.PBQuAjBgNv-WnoPKoJn3iQHaFj?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="OFF EVENTOS DEL DIA OFF",⚽️ESPN HD⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/213914
-#EXTINF:-1 tvg-id="" tvg-name="⚽️LA LIGA 3⚽️" tvg-logo="https://th.bing.com/th/id/OIP.aodK3XbD1Ej7rFoz1wppFQHaHa?w=194&h=194&c=7&r=0&o=5&pid=1.7" group-title="OFF EVENTOS DEL DIA OFF",⚽️LA LIGA 3⚽️
-http://odenfull.co:2086/Arismau/db4C47br9Fda/214470
 #EXTINF:-1 tvg-id="Canal beIN Sport en Español" tvg-name="BEIN SPORTS Ñ" tvg-logo="http://odenfull.co:2086/images/356f2fcf827e91006729d4f2f634304f.png" group-title="CANALES LATINOS PARA 5 MEGAS",BEIN SPORTS Ñ
 http://odenfull.co:2086/Arismau/db4C47br9Fda/214631
 #EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES" tvg-logo="https://i.ibb.co/r2ks5t4/movis.png" group-title="CANALES LATINOS PARA 5 MEGAS",LIGA DE CAMPEONES
@@ -580,113 +355,53 @@ http://odenfull.co:2086/Arismau/db4C47br9Fda/214709
 http://odenfull.co:2086/Arismau/db4C47br9Fda/214710
 #EXTINF:-1 tvg-id="" tvg-name="Mtv 5 m" tvg-logo="" group-title="CANALES LATINOS PARA 5 MEGAS",Mtv 5 m
 http://odenfull.co:2086/Arismau/db4C47br9Fda/214713
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="" group-title="DEPORTES SD/HD",DIRECTV SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="" group-title="DEPORTES MX",DIRECTV SPORTS 2
 http://odenfull.co:2086/Arismau/db4C47br9Fda/215714
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS+" tvg-logo="" group-title="DEPORTES SD/HD",DIRECTV SPORTS+
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS+" tvg-logo="" group-title="DEPORTES MX",DIRECTV SPORTS+
 http://odenfull.co:2086/Arismau/db4C47br9Fda/215715
-#EXTINF:-1 tvg-id="" tvg-name="EURO CHANNEL" tvg-logo="" group-title="DEPORTES SD/HD",EURO CHANNEL
-http://odenfull.co:2086/Arismau/db4C47br9Fda/216176
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS + (OPC 1)" tvg-logo="http://odenfull.co:2086/images/15b1ad888409739f70c18e58b77d0de1.png" group-title="WIN SPORTS + (PACK)",WIN SPORTS + (OPC 1)
 http://odenfull.co:2086/Arismau/db4C47br9Fda/134308
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://yt3.ggpht.com/a/AGF-l78RoSgQNS0AjYVsVM4JEHMmx0xgFdKvj09nfw=s900-c-k-c0xffffffff-no-rj-mo" group-title="OFF EVENTOS DEL DIA OFF",DIRECTV SPORTS 2
-http://odenfull.co:2086/Arismau/db4C47br9Fda/219220
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV" tvg-logo="https://yt3.ggpht.com/a/AGF-l78RoSgQNS0AjYVsVM4JEHMmx0xgFdKvj09nfw=s900-c-k-c0xffffffff-no-rj-mo" group-title="OFF EVENTOS DEL DIA OFF",DIRECTV
-http://odenfull.co:2086/Arismau/db4C47br9Fda/219221
 #EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="" group-title="CANALES LATINOS PARA 5 MEGAS",TBS HD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/219471
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS PRUEBA (claro)" tvg-logo="http://odenfull.co:2086/images/0fe54d9581abbec04edce29c612c86cd.png" group-title="OFF EVENTOS DEL DIA OFF",WIN SPORTS PRUEBA (claro)
-http://odenfull.co:2086/Arismau/db4C47br9Fda/223331
-#EXTINF:-1 tvg-id="" tvg-name="DEP: PX SPORTS" tvg-logo="" group-title="DEPORTES SD/HD",DEP: PX SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="DEP: PX SPORTS" tvg-logo="" group-title="DEPORTES MX",DEP: PX SPORTS
 http://odenfull.co:2086/Arismau/db4C47br9Fda/223518
-#EXTINF:-1 tvg-id="" tvg-name="Fox sports premium " tvg-logo="" group-title="ESPN DEPORTES HD/SD",Fox sports premium 
+#EXTINF:-1 tvg-id="" tvg-name="Fox sports premium " tvg-logo="" group-title="DEPORTES MX",Fox sports premium 
 http://odenfull.co:2086/Arismau/db4C47br9Fda/223519
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://odenfull.co:2086/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE PREMIUM ",CINEMAX
 http://odenfull.co:2086/Arismau/db4C47br9Fda/224355
-#EXTINF:-1 tvg-id="" tvg-name="QATAR 1" tvg-logo="http://odenfull.co:2086/images/a2797b68bd18a7557cc0d8f1eebd60fc.jpg" group-title="QATAR 2022",QATAR 1
-http://odenfull.co:2086/Arismau/db4C47br9Fda/233509
-#EXTINF:-1 tvg-id="" tvg-name="QATAR 2" tvg-logo="http://odenfull.co:2086/images/a2797b68bd18a7557cc0d8f1eebd60fc.jpg" group-title="QATAR 2022",QATAR 2
-http://odenfull.co:2086/Arismau/db4C47br9Fda/234116
-#EXTINF:-1 tvg-id="" tvg-name="QATAR 3" tvg-logo="http://odenfull.co:2086/images/a2797b68bd18a7557cc0d8f1eebd60fc.jpg" group-title="QATAR 2022",QATAR 3
-http://odenfull.co:2086/Arismau/db4C47br9Fda/234191
-#EXTINF:-1 tvg-id="" tvg-name="QATAR 4" tvg-logo="http://odenfull.co:2086/images/a2797b68bd18a7557cc0d8f1eebd60fc.jpg" group-title="QATAR 2022",QATAR 4
-http://odenfull.co:2086/Arismau/db4C47br9Fda/234192
-#EXTINF:-1 tvg-id="" tvg-name="QATAR 5" tvg-logo="http://odenfull.co:2086/images/a2797b68bd18a7557cc0d8f1eebd60fc.jpg" group-title="QATAR 2022",QATAR 5
-http://odenfull.co:2086/Arismau/db4C47br9Fda/234193
-#EXTINF:-1 tvg-id="" tvg-name="QATAR 6" tvg-logo="http://odenfull.co:2086/images/a2797b68bd18a7557cc0d8f1eebd60fc.jpg" group-title="QATAR 2022",QATAR 6
-http://odenfull.co:2086/Arismau/db4C47br9Fda/234196
-#EXTINF:-1 tvg-id="" tvg-name="QATAR 7" tvg-logo="http://odenfull.co:2086/images/a2797b68bd18a7557cc0d8f1eebd60fc.jpg" group-title="QATAR 2022",QATAR 7
-http://odenfull.co:2086/Arismau/db4C47br9Fda/234535
-#EXTINF:-1 tvg-id="" tvg-name="QATAR 8" tvg-logo="http://odenfull.co:2086/images/a2797b68bd18a7557cc0d8f1eebd60fc.jpg" group-title="QATAR 2022",QATAR 8
-http://odenfull.co:2086/Arismau/db4C47br9Fda/234536
-#EXTINF:-1 tvg-id="" tvg-name="QATAR 9" tvg-logo="http://odenfull.co:2086/images/a2797b68bd18a7557cc0d8f1eebd60fc.jpg" group-title="QATAR 2022",QATAR 9
-http://odenfull.co:2086/Arismau/db4C47br9Fda/234549
-#EXTINF:-1 tvg-id="" tvg-name="QATAR 10" tvg-logo="http://odenfull.co:2086/images/a2797b68bd18a7557cc0d8f1eebd60fc.jpg" group-title="QATAR 2022",QATAR 10
-http://odenfull.co:2086/Arismau/db4C47br9Fda/234550
-#EXTINF:-1 tvg-id="" tvg-name="QATAR 11" tvg-logo="http://odenfull.co:2086/images/a2797b68bd18a7557cc0d8f1eebd60fc.jpg" group-title="QATAR 2022",QATAR 11
-http://odenfull.co:2086/Arismau/db4C47br9Fda/234551
-#EXTINF:-1 tvg-id="" tvg-name="QATAR 12" tvg-logo="http://odenfull.co:2086/images/a2797b68bd18a7557cc0d8f1eebd60fc.jpg" group-title="QATAR 2022",QATAR 12
-http://odenfull.co:2086/Arismau/db4C47br9Fda/234553
-#EXTINF:-1 tvg-id="" tvg-name="QATAR 13" tvg-logo="http://odenfull.co:2086/images/a2797b68bd18a7557cc0d8f1eebd60fc.jpg" group-title="QATAR 2022",QATAR 13
-http://odenfull.co:2086/Arismau/db4C47br9Fda/234554
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN EXTRA
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN EXTRA
 http://odenfull.co:2086/Arismau/db4C47br9Fda/207566
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA MX" tvg-logo="http://odenfull.co:2086/images/c14540a56929e7c765a2ec5a4ff86d81.png" group-title="ESPN DEPORTES HD/SD",ESPN EXTRA MX
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA MX" tvg-logo="http://odenfull.co:2086/images/c14540a56929e7c765a2ec5a4ff86d81.png" group-title="EDEPORTES MX",ESPN EXTRA MX
 http://odenfull.co:2086/Arismau/db4C47br9Fda/210440
-#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG 4  HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN ARG 4  HD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/210441
-#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="http://odenfull.co:2086/images/6512bd43d9caa6e02c990b0a82652dca.png" group-title="TUDN",TUDN USA
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="http://odenfull.co:2086/images/6512bd43d9caa6e02c990b0a82652dca.png" group-title="DEPORTES MX",TUDN USA
 http://odenfull.co:2086/Arismau/db4C47br9Fda/210627
-#EXTINF:-1 tvg-id="" tvg-name="TUDN OPC 2" tvg-logo="http://odenfull.co:2086/images/6512bd43d9caa6e02c990b0a82652dca.png" group-title="TUDN",TUDN OPC 2
+#EXTINF:-1 tvg-id="" tvg-name="TUDN OPC 2" tvg-logo="http://odenfull.co:2086/images/6512bd43d9caa6e02c990b0a82652dca.png" group-title="DEPORTES MX",TUDN OPC 2
 http://odenfull.co:2086/Arismau/db4C47br9Fda/210628
-#EXTINF:-1 tvg-id="" tvg-name="TUDN OPC 3" tvg-logo="http://odenfull.co:2086/images/6512bd43d9caa6e02c990b0a82652dca.png" group-title="TUDN",TUDN OPC 3
-http://odenfull.co:2086/Arismau/db4C47br9Fda/210629
-#EXTINF:-1 tvg-id="" tvg-name="ESPN COL HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN COL HD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/209764
-#EXTINF:-1 tvg-id="" tvg-name="ESPN COL SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN COL SD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/209765
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN BRASIL HD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/209766
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN BRASIL SD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/209767
-#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG 1 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN ARG 1 HD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/209770
-#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG 1 SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN ARG 1 SD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/209771
-#EXTINF:-1 tvg-id="" tvg-name="ESPN MEX 3 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN MEX 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="TUDN OPC 3" tvg-logo="http://odenfull.co:2086/images/6512bd43d9caa6e02c990b0a82652dca.png" group-title="DEPORTES MX",TUDN OPC 3
+#EXTINF:-1 tvg-id="" tvg-name="ESPN MEX 3 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN MEX 3 HD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/209772
-#EXTINF:-1 tvg-id="" tvg-name="ESPN MEX SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN MEX SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN MEX SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN MEX SD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/209773
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 MX  HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN 2 MX  HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 MX  HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN 2 MX  HD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/209774
-#EXTINF:-1 tvg-id="" tvg-name="ESPN MEX EXTRA SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN MEX EXTRA SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN MEX EXTRA SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN MEX EXTRA SD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/209775
-#EXTINF:-1 tvg-id="" tvg-name="ESPN COL 2 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN COL 2 HD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/209776
-#EXTINF:-1 tvg-id="" tvg-name="ESPN COL 1 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN COL 1 HD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/209778
-#EXTINF:-1 tvg-id="" tvg-name="ESPN COL 1 SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN COL 1 SD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/209779
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN 2 HD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/209780
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN PLUS SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN PLUS SD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/209781
-#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG 2 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN ARG 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG 2 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN ARG 2 HD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/209782
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN PREMIUM HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN PREMIUM HD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/209783
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR  HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN SUR  HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR  HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN SUR  HD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/209784
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 MX HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN 1 MX HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 MX HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN 1 MX HD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/209786
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 MX SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN 1 MX SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 MX SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN 1 MX SD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/209787
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR 2" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN SUR 2
-http://odenfull.co:2086/Arismau/db4C47br9Fda/209910
-#EXTINF:-1 tvg-id="" tvg-name="ESPN COL 2 SD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN COL 2 SD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/210393
-#EXTINF:-1 tvg-id="" tvg-name="ESPN COL 3 HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN COL 3 HD
-http://odenfull.co:2086/Arismau/db4C47br9Fda/211815
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS MX HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN DEPORTES HD/SD",ESPN PLUS MX HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS MX HD" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES MX",ESPN PLUS MX HD
 http://odenfull.co:2086/Arismau/db4C47br9Fda/212054
+
 
 
